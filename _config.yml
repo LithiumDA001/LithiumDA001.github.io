@@ -75,13 +75,13 @@ analytics:
 # Site Author
 author:
   name             : "Shanda Li"
-  avatar           : "profile.png"
+  avatar           : "my_photo.jpg"
   bio              : "A junior student in PKU"
   location         : "Beijing, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  # "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "lishanda@pku.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
