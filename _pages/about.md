@@ -11,5 +11,5 @@ redirect_from:
 
 I am a junior student in Turing class, Peking university, where I am fortunate to work with [Prof. Liwei Wang](http://www.liweiwang-pku.com/). 
 
-I major in computer science and double in mathematics. My research area is machine learning, with special interests in models and algorithms inspired by theoretical insights.
+My research area is machine learning, with special interests in models and algorithms inspired by theoretical insights.
 
