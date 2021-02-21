@@ -13,13 +13,12 @@ I am a junior student in Turing class, Peking university, where I am fortunate t
 
 My research area is machine learning, with special interests in models and algorithms inspired by theoretical insights.
 
-Education
-======
+### Education
+
 **Peking University**, Beijing, China.
 * Candidate for B.S. in Computer Science and Technology
 * Candidate for B.S. in Mathematics (Double Major)
-
   
-Service and leadership
-======
+### Service and leadership
+
 **Leader**: EECS Students’ Association for Science and Technology, Peking University.
